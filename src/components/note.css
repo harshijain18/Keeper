@@ -1,0 +1,22 @@
+.both{
+    padding: 10;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px #ccc ;
+    margin: 16px;
+    width: 300px;
+    float: left;
+}
+.h1{
+    font-size: 1.1em;
+    margin-bottom: 6px;
+    margin-left: 5px;
+}
+.para{
+    margin-left: 5px;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    
+}
